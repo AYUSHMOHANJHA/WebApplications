@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/AYUSHMOHANJHA/WebApplications/issues"
   },
-  "homepage": "https://github.com/AYUSHMOHANJHA/WebApplications#readme"
+  "homepage": "https://github.com/AYUSHMOHANJHA/WebApplications#readme",
+  "dependencies": {
+    "formidable": "^1.2.2",
+    "nodemailer": "^6.4.16",
+    "upper-case": "^2.0.2"
+  }
 }
