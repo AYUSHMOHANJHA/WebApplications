@@ -18,6 +18,7 @@
   "homepage": "https://github.com/AYUSHMOHANJHA/WebApplications#readme",
   "dependencies": {
     "formidable": "^1.2.2",
+    "mysql": "^2.18.1",
     "nodemailer": "^6.4.16",
     "upper-case": "^2.0.2"
   }
