@@ -2,8 +2,8 @@ var mysql = require('mysql');
 
 var con = mysql.createConnection({
   host: 'localhost',
-  user: 'debian-sys-maint',
-  password: '0Cgu7DOStjtcOEcd',
+  user: 'root',
+  password: 'root',
   database: 'mysql',
   insecureAuth : true
 });
